@@ -8,5 +8,8 @@ Idea and Image taken from here: https://www.reddit.com/r/de/comments/mkt3a8/wür
 3. Press the ▲/▼- Buttons to toggle the result
 4. Enjoy
 
+## update: 
+Nuw there is a second file available which should work better on mobile devices.
+
 # Notice
 - This file is German only
